@@ -6,10 +6,11 @@
     {
       "matches": [
         "https://github.com/*",
-        "https://gist.github.com/*",
-        "https://github.*.com/*"
+        "https://gist.github.com/*"
       ],
-      "css": ["app/app.css"]
+      "css": [
+        "app/app.css"
+      ]
     }
   ],
   "icons": {
